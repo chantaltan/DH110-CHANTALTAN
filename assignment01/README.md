@@ -2,13 +2,13 @@
 ## Assignment 01 - Heuristic Analysis
 Chantal Tan | DH 110
 
-### About the project
+### About the Project
 Learning how to play a new instrument at an older age can be daunting and challenging. From learning how to sight-read, finding music sheets that are appropriate to play, and practicing alone, there are some key aspects a music learning platform must provide to create a smooth, accessible learning experience. I hope to explore how the process of browsing songs and practicing with music sheets online can be made more seamless for the target audience of middle-aged men.<br><br>I'll be conducting heuristics analyses based on Nielsen Norman's [10 Usability Heuristics for UI Design](https://www.nngroup.com/articles/ten-usability-heuristics/) and [Severity Ratings for Usability Problems](https://www.nngroup.com/articles/how-to-rate-the-severity-of-usability-problems/). 
 
-### Core task
+### Core Task
 Browse for a song and attempt to play a song using the music sheets and varied methods of reading the sheets.
 
-### Severity ratings
+### Severity Ratings
 **1** = Cosmetic problem only: need not be fixed unless extra time is available on project<br>**2** = Minor usability problem: fixing this should be given low priority<br>**3** = Major usability problem: important to fix, so should be given high priority
 
 ## Website A: [Musescore](http://musescore.com/)
