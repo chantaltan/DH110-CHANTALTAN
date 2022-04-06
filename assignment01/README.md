@@ -13,6 +13,9 @@ Browse for a song and attempt to play a song using the music sheets and varied m
 
 ## Website A: [Musescore](http://musescore.com/)
 
+<img src="./musescore1.png">
+<img src="./musescore2.png">
+
 #### Description
 When looking for websites that could be used for music learning and middle-aged men, I found this to be one of the most versatile. It allows users to both find and upload music sheets for original or covered songs, with transcriptions and audios for users to play along. Users can choose to learn music from a selection of classical or pop music and play a variety of instruments. Users can use this in the website format or on their touchscreen device.
 #### Overall Evaluation
@@ -32,6 +35,9 @@ For the most part, this website seems straightforward with providing music sheet
 | **10\. Help and documentation**<br> Present easily accessible and searchable help with steps to solve a problem | **Good:** Musescore offers a help center with FAQs and descriptions to find sheet music.<br>**Bad:** There is no live help feature, which may be useful for middle-aged men troubleshooting within the platform.<br>***Recommendation:** Have a live chat feature, possibly with a chatbot, that can help guide a user to learn how to use the website.* | 2 |
 
 ## Website B: [SmartMusic](https://www.smartmusic.com/)
+
+<img src="./smartmusic1.png">
+<img src="./smartmusic2.png">
 
 #### Description
 SmartMusic is a more immersive music learning platform that connects students with teachers through the cloud. Their app allows users to select from a large database of music sheets - some of which include play-alongs. 
