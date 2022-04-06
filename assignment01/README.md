@@ -9,9 +9,7 @@ Learning how to play a new instrument at an older age can be daunting and challe
 Browse for a song and attempt to play a song using the music sheets and varied methods of reading the sheets.
 
 ### Severity ratings
-**1** = Cosmetic problem only: need not be fixed unless extra time is available on project
-**2** = Minor usability problem: fixing this should be given low priority
-**3** = Major usability problem: important to fix, so should be given high priority
+**1** = Cosmetic problem only: need not be fixed unless extra time is available on project<br>**2** = Minor usability problem: fixing this should be given low priority<br>**3** = Major usability problem: important to fix, so should be given high priority
 
 ## Website A: [Musescore](http://musescore.com/)
 
@@ -31,12 +29,28 @@ For the most part, this website seems straightforward with providing music sheet
 | **7\. Flexibility and efficiency of use**<br>Allow users to tailor their experience through shortcuts and customization | **Bad:** A user cannot customize how they view their music sheets besides viewing it as a full screen or not.<br>**Bad:** Since scrolling is the only way to move to the next page, a user cannot mimic the functionality like they would for flipping music pages. Scrolling takes additional time to correctly position a music page so that a user can view the entire sheet at once.<br>***Recommendation:** Add a quick shortcut click or tap feature to “flip” to the next page. When navigating between pages, have the music sheets occupy a fixed space on the screen to remove the need to adjust when scrolling.*<br>***Recommendation:** Allow users to view their music sheets in different dimensions and different numbers of measures at a time.* | 2 |
 | **8\. Aesthetic and minimalist design**<br>Website should be simple and contain only necessary information | **Good:** When browsing, the sheet music acts as a thumbnail, allowing the user to quickly glance at what the difficulty of playing might be.<br>**Good:** With the music sheet dominating the screen space, there is not much information from first glance that is irrelevant. White, light gray, blue, and red are the only colors used in the interface, and use of colors are minimal.<br>**Bad:** When browsing for sheets, all the sheet details are displayed, including the number of pages, timestamp, and sheet description written by the user. This creates a cluttered effect.<br>**Bad:** A lot of the content includes hyperlinks to other scores, which include long titles. Other content also can be distracting as a user scrolls, such as comments, the comment box, and ratings of the score. The notes itself can be overwhelming for beginning music learners, so it would be best to reduce the cognitive load of the user visually.<br>**Bad:** Ads appear throughout the site and their sale banners take up a fixed portion of the screen throughout the site, unless it is removed.<br>***Recommendation:** Move score/uploader information below the music sheet, and find a cleaner way to display links and other recommended music sheets.* | 3 |
 | **9\. Help users recognize, diagnose, and recover from errors**<br>Display error messages and solutions to help a user recover from mistakes | **Good:** If a user is on a free trial or using the website app, a message will appear that shows they need a Musescore Pro membership or download the mobile app to use the feature.<br>**Bad:** The messages and modals that appear prompting a user to purchase Musescore Pro or download the app are all different in color and size.<br>***Recommendation:** Messages can visually be standardized to be consistent and recognizable across all inaccessible features.* | 1 |
-| **10\. Help and documentation**<br> Present easily accessible and searchable help with steps to solve a problem | **Good:** Musescore offers a help center with FAQs and descriptions to find sheet music.<br>**Bad:** There is no live help feature, which may be useful for middle-aged men troubleshooting within the platform.<br>
+| **10\. Help and documentation**<br> Present easily accessible and searchable help with steps to solve a problem | **Good:** Musescore offers a help center with FAQs and descriptions to find sheet music.<br>**Bad:** There is no live help feature, which may be useful for middle-aged men troubleshooting within the platform.<br>***Recommendation:** Have a live chat feature, possibly with a chatbot, that can help guide a user to learn how to use the website.* | 2 |
 
+## Website B: [SmartMusic](https://www.smartmusic.com/)
 
+#### Description
+SmartMusic is a more immersive music learning platform that connects students with teachers through the cloud. Their app allows users to select from a large database of music sheets - some of which include play-alongs. 
 
+#### Overall Evaluation
+When looking at the website initially, there seems to be an overwhelming amount of features and information. The features are not displayed aesthetically visually and could be made simpler.
 
-
+| Heuristic & Description | Evaluation | Severity Rating |
+| ----------------------- | ---------- | --------------- |
+| **1\. Visibility of system status**<br>The website should communicate what status the user is in | **Good:** When a user presses play, each measure is highlighted in blue. A vertical line shows exactly which note the song is at.<br>**Good:** When recording, the system shows which notes the user has played correctly or missed with green and red notes.<br>**Good:** It displays which page the user is on.<br>**Good:** When browsing for sheets, difficulty levels are displayed. | 1 |
+| **2\. Match between system and the real world**<br>Concepts, words, and images reflect ones used in the real world | **Good:** The terms the website uses matches those used by musicians, such as “score” and “takes."<br>**Bad:** Navigating through music sheets requires vertical scrolling, rather than horizontal. This does not reflect real-world flipping of pages.<br>***Recommendation:** Have arrows to navigate between pages horizontally.* | 2 |
+| **3\. User control and freedom**<br>Users have room to undo actions and mistakes | **Good:** The user can control the pace the music is playing at with the metronome, add accompaniment, and record their playing on their own.<br>**Good:** The user can choose which instrument and song they would like to play. | 1 |
+| **4\. Consistency and standards**<br>Website is designed in a way that's consistent with other commonly used websites | **Good:** Music sheets are displayed front and center, allowing the user to focus on it while playing.<br>**Bad:** When viewing the website on a browser, it does not allow a user to minimize the window to a smaller size. The screen must be viewed with larger dimensions.<br>***Recommendation:** Create a responsive design for browsing music sheets.* | 2 |
+| **5\. Error prevention**<br>Prevent actions users do not want to follow through with | 
+| **6\. Recognition rather than recall**<br>Interfaces should be easily accessible to support recognition |
+| **7\. Flexibility and efficiency of use**<br>Allow users to tailor their experience through shortcuts and customization |
+| **8\. Aesthetic and minimalist design**<br>Website should be simple and contain only necessary information |
+| **9\. Help users recognize, diagnose, and recover from errors**<br>Display error messages and solutions to help a user recover from mistakes |
+| **10\. Help and documentation**<br> Present easily accessible and searchable help with steps to solve a problem |
 
 
 
