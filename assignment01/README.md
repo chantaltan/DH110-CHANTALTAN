@@ -1,6 +1,6 @@
 # **Making Music Learning Accessible**
 ## Assignment 01 - Heuristic Analysis
-Chantal Tan, DH 110
+Chantal Tan | DH 110
 
 ### About the project
 Learning how to play a new instrument at an older age can be daunting and challenging. From learning how to sight-read, finding music sheets that are appropriate to play, and practicing alone, there are some key aspects a music learning platform must provide to create a smooth, accessible learning experience. I hope to explore how the process of browsing songs and practicing with music sheets online can be made more seamless for the target audience of middle-aged men.
@@ -45,12 +45,16 @@ When looking at the website initially, there seems to be an overwhelming amount 
 | **2\. Match between system and the real world**<br>Concepts, words, and images reflect ones used in the real world | **Good:** The terms the website uses matches those used by musicians, such as “score” and “takes."<br>**Bad:** Navigating through music sheets requires vertical scrolling, rather than horizontal. This does not reflect real-world flipping of pages.<br>***Recommendation:** Have arrows to navigate between pages horizontally.* | 2 |
 | **3\. User control and freedom**<br>Users have room to undo actions and mistakes | **Good:** The user can control the pace the music is playing at with the metronome, add accompaniment, and record their playing on their own.<br>**Good:** The user can choose which instrument and song they would like to play. | 1 |
 | **4\. Consistency and standards**<br>Website is designed in a way that's consistent with other commonly used websites | **Good:** Music sheets are displayed front and center, allowing the user to focus on it while playing.<br>**Bad:** When viewing the website on a browser, it does not allow a user to minimize the window to a smaller size. The screen must be viewed with larger dimensions.<br>***Recommendation:** Create a responsive design for browsing music sheets.* | 2 |
-| **5\. Error prevention**<br>Prevent actions users do not want to follow through with | 
-| **6\. Recognition rather than recall**<br>Interfaces should be easily accessible to support recognition |
-| **7\. Flexibility and efficiency of use**<br>Allow users to tailor their experience through shortcuts and customization |
-| **8\. Aesthetic and minimalist design**<br>Website should be simple and contain only necessary information |
-| **9\. Help users recognize, diagnose, and recover from errors**<br>Display error messages and solutions to help a user recover from mistakes |
-| **10\. Help and documentation**<br> Present easily accessible and searchable help with steps to solve a problem |
+| **5\. Error prevention**<br>Prevent actions users do not want to follow through with | **Good:** For music sheets, the “Open” button is grayed and unclickable, with a message saying a subscription is needed to access the music.<br>**Bad:** It is difficult to tell whether the metronome scale is used to adjust volume or tempo. It is also unclear what the subdivisions checkbox next to the metronome feature does without clicking it.<br>**Bad:** Icons at the top are small and next by the “Practice” button, potentially causing mistapping errors.<br>***Recommendation:** Have an onboarding process explaining each feature of the website, and have a numerical indicator for the metronome tempo.*<br>***Recommendation:** Make icons larger, and position the “Practice” button farther away from the help icon.* | 3 |
+| **6\. Recognition rather than recall**<br>Interfaces should be easily accessible to support recognition | **Bad:** Some icons and tab names like “Loop” and “Display” are not intuitive to a music learning experience. A user may need to click within the icons and pages to remember what each corresponds to.<br>***Recommendation:** Rename tabs, and choose icons that better correspond with the content.* | 2 |
+| **7\. Flexibility and efficiency of use**<br>Allow users to tailor their experience through shortcuts and customization | **Bad:** There is only one mode of viewing. A user is unable to full screen the sheets without any additional UI, and the music notes cannot be displayed as larger. This may be frustrating for people who prefer larger elements to read more easily.<br>***Recommendation:** Add multiple views for the music sheets so users can customize how they want to read the notes.* | 2 |
+| **8\. Aesthetic and minimalist design**<br>Website should be simple and contain only necessary information | **Bad:** The padding around text is not large enough, making the contents look squished.<br>**Bad:** Sheet music and books are displayed in a list format, making it difficult and overwhelming to read visually. Book covers, rather than sheet music previews, are shown.<br>***Recommendation:** Display sheet music and books in a grid/card format, and remove unnecessary details, such as publisher or the print icon, from these thumbnail cards.* | 3 |
+| **9\. Help users recognize, diagnose, and recover from errors**<br>Display error messages and solutions to help a user recover from mistakes | **Good:** The help button has a fixed position across all parts of the app.<br>**Bad:** The help icon is small and difficult to notice.<br>***Recommendation:** Resize the help icon and place it at the bottom right corner of the screen.* | 1 |
+| **10\. Help and documentation**<br> Present easily accessible and searchable help with steps to solve a problem | **Good:** There is a help center that is searchable and categorized by content, as well as a quick search.<br>
+Bad: Within each help module, the website navigates to a page with bulleted hyperlinks, making it hard to visualize what problem each article will solve.
+Recommendation: Remove the additional page including the bulleted list of articles, and display hyperlinked article titles within a dropdown in the current help module. 
+
+
 
 
 
