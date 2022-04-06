@@ -22,9 +22,7 @@ For the most part, this website seems straightforward with providing music sheet
 
 | Heuristic & Description | Evaluation | Severity Rating |
 | ----------------------- | ---------- | --------------- |
-| **1\. Visibility of system status**<br>The website should communicate what status the user is in | **Good:** When a user presses play, the website can play a guide, highlighted in red, alongside a user’s own playing.<br>
-**Bad:** It only highlights a measure at a time, so users who are just starting out may not know which note they are on.<br>
-*Recommendation: Add an option to highlight individual notes when the audio is played.* | 2 |
+| **1\. Visibility of system status**<br>The website should communicate what status the user is in | **Good:** When a user presses play, the website can play a guide, highlighted in red, alongside a user’s own playing.<br>**Bad:** It only highlights a measure at a time, so users who are just starting out may not know which note they are on.<br>*Recommendation: Add an option to highlight individual notes when the audio is played.* | 2 |
 
 
 
