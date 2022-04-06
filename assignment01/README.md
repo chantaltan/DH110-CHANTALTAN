@@ -3,7 +3,7 @@
 Chantal Tan | DH 110
 
 ### About the project
-Learning how to play a new instrument at an older age can be daunting and challenging. From learning how to sight-read, finding music sheets that are appropriate to play, and practicing alone, there are some key aspects a music learning platform must provide to create a smooth, accessible learning experience. I hope to explore how the process of browsing songs and practicing with music sheets online can be made more seamless for the target audience of middle-aged men.
+Learning how to play a new instrument at an older age can be daunting and challenging. From learning how to sight-read, finding music sheets that are appropriate to play, and practicing alone, there are some key aspects a music learning platform must provide to create a smooth, accessible learning experience. I hope to explore how the process of browsing songs and practicing with music sheets online can be made more seamless for the target audience of middle-aged men.<br><br>I'll be conducting heuristics analyses based on Nielsen Norman's [10 Usability Heuristics for UI Design](https://www.nngroup.com/articles/ten-usability-heuristics/) and [Severity Ratings for Usability Problems](https://www.nngroup.com/articles/how-to-rate-the-severity-of-usability-problems/). 
 
 ### Core task
 Browse for a song and attempt to play a song using the music sheets and varied methods of reading the sheets.
