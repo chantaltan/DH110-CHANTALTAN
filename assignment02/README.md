@@ -18,8 +18,8 @@ I will ask the user to place the UT survey and the website as two separate windo
 This test is meant to be a pilot usability test, using a participant who is close to the target user group of middle-aged men.
 
 
-#### [The UT Survey](https://forms.gle/3Vc6yQHC3dsDsKdT9)
-#### [The UT Video](https://drive.google.com/file/d/1KShZVl-X50PUn44l9rdHen5__vFoGe7h/view?usp=sharing)
+### [The UT Survey](https://forms.gle/3Vc6yQHC3dsDsKdT9)
+### [The UT Video](https://drive.google.com/file/d/1KShZVl-X50PUn44l9rdHen5__vFoGe7h/view?usp=sharing)
 
 ### Reflection
 
