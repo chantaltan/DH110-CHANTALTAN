@@ -6,6 +6,6 @@ Learning how to play a new instrument at an older age can be daunting and challe
 
 ### Assignments
 #### [Assignment 01](https://github.com/chantaltan/DH110-CHANTALTAN/tree/main/assignment01)
-
+#### [Assignment 02](https://github.com/chantaltan/DH110-CHANTALTAN/blob/main/assignment02/README.md)
 
 
