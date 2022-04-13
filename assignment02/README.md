@@ -3,8 +3,19 @@
 Chantal Tan | DH 110
 
 ### Introduction
+Musescore is a music learning platform for users to find music sheets, practice alongside it, and learn from online courses. After conducting a heuristic analysis on the website, I found several usability problems. Most notably, they included:
+- The website creates an overwhelming experience by displaying filters, music sheet information, music sheets, and courses all within the same screens. It is cluttered, and the information could be organized in a more minimalistic way.
+- Musescore’s recommended courses are featured at the top of the screen while their music sheets are placed below those. This is not consistent with other music learning websites that place music sheets on its own page and online courses on another.
+
+
 
 ### Methodology
+
+The usability test will be conducted over Zoom. Both the moderator (me) and the participant will be in a quiet room. I will be using Zoom on my laptop to record the session.
+
+I will ask the user to place the UT survey and the website as two separate windows side-by-side, with the website taking up about 75% of the screen. I will read the UT script and walk through the informed consent form before moving on to the tasks. I will ask the user to provide verbal feedback while completing their tasks and to complete the form to indicate their success. The difficulty level, completion time, and likelihood of completing each task will also be collected. The last part of the survey will ask about their satisfaction with the website and demographic information.
+ 
+This test is meant to be a pilot usability test, using a participant who is close to the target user group of middle-aged men.
 
 
 #### [The UT Survey](https://forms.gle/3Vc6yQHC3dsDsKdT9)
