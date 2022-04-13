@@ -31,10 +31,10 @@ This test is meant to be a pilot usability test, using a participant who is clos
 
 
 ### User Testing Materials
-The UT Survey [here](https://forms.gle/3Vc6yQHC3dsDsKdT9)
+The UT Survey [here](https://forms.gle/3Vc6yQHC3dsDsKdT9).
 
 ### Usability Testing Video
-The pilot UT video [here](https://drive.google.com/file/d/1KShZVl-X50PUn44l9rdHen5__vFoGe7h/view?usp=sharing)
+The pilot UT video [here](https://drive.google.com/file/d/1KShZVl-X50PUn44l9rdHen5__vFoGe7h/view?usp=sharing).
 
 ### Reflection
 
