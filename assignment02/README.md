@@ -30,8 +30,11 @@ The process was as follows:
 This test is meant to be a pilot usability test, using a participant who is close to the target user group of middle-aged men.
 
 
-### [The UT Survey](https://forms.gle/3Vc6yQHC3dsDsKdT9)
-### [The UT Video](https://drive.google.com/file/d/1KShZVl-X50PUn44l9rdHen5__vFoGe7h/view?usp=sharing)
+### User Testing Materials
+The UT Survey [here](https://forms.gle/3Vc6yQHC3dsDsKdT9)
+
+### Usability Testing Video
+The pilot UT video [here](https://drive.google.com/file/d/1KShZVl-X50PUn44l9rdHen5__vFoGe7h/view?usp=sharing)
 
 ### Reflection
 
