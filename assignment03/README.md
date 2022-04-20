@@ -19,3 +19,27 @@ To tackle this challenge, I must consider:
    - In current free music learning apps, most interactions are one-sided. Users may prefer to have live feedback from a real instructor within an app to improve their learning experience.
 
 ### Defining the Target Users
+
+
+
+### Research Methods
+I will conduct a contextual inquiry session, which will include an interview and over participatory observation of the user. For the interview, I asked background questions about the user’s music learning background and in what contexts he learns to play his instrument and find music sheets. For the observation, I observed how the user would find music sheets online. Since he did not have his instrument with him, I was not able to observe how he would practice alongside the music sheets.
+
+The session was conducted at the user’s own home over Zoom, where they might practice their instrument or use their device to find music online. The user did not feel comfortable sharing his video, so only his audio file will be shared. 
+
+
+### Contextual Inquiry Guide and Transcript
+
+Find the contextual inquiry guide [here](https://docs.google.com/document/d/1rC5G8pPJRYDHTzH33Z-FgUGEzDLTm2Qe_i2nKlS1rbY/edit?usp=sharing).
+
+Find the audio recording [here](https://drive.google.com/file/d/1cXtVr1QOLJgCg1I9x1tSfKNULCTlHhvU/view?usp=sharing) and the transcript of the contextual inquiry [here](https://docs.google.com/document/d/1IcCXDc7i5TaAK38EcHiyI-ypCjnwB7Nk3FvHxldoKfc/edit?usp=sharing).
+
+Find my observation notes [here](https://docs.google.com/document/d/1kPfoPkfaH0bM5uUkpyOGnAYi4DV2CwF_-tK0ohrqfL4/edit?usp=sharing).
+
+### Key Insights
+
+### Reflection
+
+
+
+
