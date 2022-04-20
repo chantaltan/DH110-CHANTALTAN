@@ -45,13 +45,13 @@ Find the contextual inquiry guide [here](https://docs.google.com/document/d/1rC5
 
 Find the audio recording [here](https://drive.google.com/file/d/1cXtVr1QOLJgCg1I9x1tSfKNULCTlHhvU/view?usp=sharing) and the transcript of the contextual inquiry [here](https://docs.google.com/document/d/1IcCXDc7i5TaAK38EcHiyI-ypCjnwB7Nk3FvHxldoKfc/edit?usp=sharing).
 
-Find my observation notes [here](https://docs.google.com/document/d/1kPfoPkfaH0bM5uUkpyOGnAYi4DV2CwF_-tK0ohrqfL4/edit?usp=sharing).
-
-### Key Insights
+Find my observation notes and insights [here](https://docs.google.com/document/d/1kPfoPkfaH0bM5uUkpyOGnAYi4DV2CwF_-tK0ohrqfL4/edit?usp=sharing).
 
 
 ### Reflection
+From this contextual inquiry, I learned a lot about adjusting my conduct based on an individual user's experiences and responses to the questions. The user I interviewed shared insights based on the context of having played an instrument before. If I interviewed a user with no experience playing an instrument, I would have had to adjust the way I worded my questions and which questions to ask based on their expertise. Even in this contextual inquiry, I found myself asking follow-up questions on the fly or skipping questions that they had already answered. 
 
+From this activity, I received some interesting insights, some of which I did not expect. For example, the user mentioned using the internet to find music sheets -- but not through a platform specific to music learning. Instead, they used Google images to find screenshots and related links for the music sheets they wanted. Also, since the target users may not be familiar with using technology to supplement their music learning, I have to consider how to design an app that provides the most simple functions necessary for learning. This may mean only making the metronome and key visible alongside the sheets while hiding more advanced features. Although this contextual inquiry provided rich insights, I would like to interview more people from my target user group who have varying music playing expertise.
 
 
 
