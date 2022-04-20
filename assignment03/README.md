@@ -19,7 +19,18 @@ To tackle this challenge, I must consider:
    - In current free music learning apps, most interactions are one-sided. Users may prefer to have live feedback from a real instructor within an app to improve their learning experience.
 
 ### Defining the Target Users
+**User characteristics**
+- Demographics: Middle-aged men (ages 40-60)
+- Preferences: Expertise in music and reading music sheets can be any level (even close to none). Users can be starting to learn how to play music from an older age or want to pick up learning again on their own time.
+- Users might have a range of familiarity with using technology to complete the activity, but usually they may have experience learning how to play an instrument in-person with an instructor.
 
+**Context of doing this activity**
+- Users would want to play an instrument while learning on their own; they may like self-learning.
+- Users would learn on their own time, in their own home, asynchronously as a hobby.
+
+**How the users would go about completing this activity**
+- To complete this activity in-person, users may have an instructor through group classes or private lessons to practice and learn songs. Music sheets may or may not be chosen by the instructor.
+- To complete this activity online, users would go online and search for a music learning platform to start playing. Then, they would search for a song and instrument they would like to play to find the appropriate music sheets. Once they have found the music sheet to their liking, users can use a variety of settings to learn how to play it.
 
 
 ### Research Methods
@@ -37,6 +48,7 @@ Find the audio recording [here](https://drive.google.com/file/d/1cXtVr1QOLJgCg1I
 Find my observation notes [here](https://docs.google.com/document/d/1kPfoPkfaH0bM5uUkpyOGnAYi4DV2CwF_-tK0ohrqfL4/edit?usp=sharing).
 
 ### Key Insights
+
 
 ### Reflection
 
