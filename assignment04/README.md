@@ -50,3 +50,7 @@ Harry finds that his kids, ages 5 and 7, are entertained when listening to pop s
 After Harry has found the appropriate songs in page length, difficulty level, instrument, and artist, he proceeds to play alongside the audio recordings. He sets the tempo to a slower pace using the metronome feature and presses the play button. When he consistently messes up during a measure, he tries to record himself to catch how his mistake is being made. Since he does not know how to sight-read well, he also uses the keyboard visualizer to visualize where each note is when played.
 
 <img src="./userjourneymap2.png">
+
+
+### Reflection
+From creating personas and user journey maps, I realized the importance of making a fictional yet tangible user persona. It helps to consolidate user research insights while accounting for the variations in needs, motivations, and pain points from the target user base. As I move forward into designing low-fidelity wireframes, I will consider and empathize with Daniel and Harry’s needs throughout. 
