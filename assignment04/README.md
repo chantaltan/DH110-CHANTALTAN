@@ -17,7 +17,7 @@ Chantal Tan | DH 110
 
 **Empathy Map**
 
-<img src="./persona1 empathymap.png" width="55%">
+<img src="./persona1 empathymap (1).png" width="55%">
 
 #### Persona 2: Harry Soh
 <img src="./Persona2.png">
