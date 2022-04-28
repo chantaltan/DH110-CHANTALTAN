@@ -13,9 +13,12 @@ Chantal Tan | DH 110
 
 ### Personas & Empathy Maps
 #### Persona 1: Daniel Rowe
-<img src="./Persona 1.png" width="60%">
+<img src="./Persona1.png">
 **Empathy Map**
+<img src="./Persona 1 Empathy Map.png">
 
 #### Persona 2: Harry Soh
-<img src="./Persona 2.png" width="60%">
+<img src="./Persona2.png">
 **Empathy Map**
+<img src="./Persona 2 Empathy Map.png">
+
