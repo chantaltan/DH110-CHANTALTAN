@@ -11,7 +11,7 @@ Based on my user research, I found that users wanted the simplest learning exper
 - How might I design an accessible learning experience for middle-aged men *with no prior experience* playing an instrument?
 - How might I design an accessible learning experience for middle-aged men *with prior experience* playing an instrument?
 
-Ready more about the user research [here](https://github.com/chantaltan/DH110-CHANTALTAN/blob/main/assignment03/README.md).
+Read more about the user research [here](https://github.com/chantaltan/DH110-CHANTALTAN/blob/main/assignment03/README.md).
 
 #### Personas
 From the user research, I created two personas reflecting the experiences pointed out in the research questions:
@@ -29,8 +29,8 @@ The tasks I will design will include the following:
 
 
 
-----
 ### Wireframes & Wireflows
+These wireframes show my designed interactions and flows from starting at the home page, to finding paid music courses, to browsing music sheets, to playing the music sheets, to viewing a profile.
 <p align="center">
 <img src="./DH 110 LOFI 1.jpg" width="75%">
   </p>
@@ -40,16 +40,21 @@ The tasks I will design will include the following:
 
 
 ### Low Fidelity Usability Testing
+I conducted usability testing on the lo-fi wireframes, asking the user to complete the four tasks listed above. The participant's walkthrough pathway and thoughts are outlined below in red.
 <p align="center">
-<img src="./DH 110 LOFI TEST 1.jpg">
+<img src="./DH 110 LOFI TEST 1.jpg" width="75%">
   </p>
 <p align="center">
-<img src="./DH 110 LOFI TEST 2.jpg">
+<img src="./DH 110 LOFI TEST 2.jpg" width="75%">
   </p>
 
 
-----
 
 ### Reflection
+As I was designing the wireframes and wireflows, new ideas always came to mind for how to design interactions. At the moment, it seemed like adding more features would make the website better; I thought it would give the user more options to complete their tasks. But, when I tested the low fidelity prototype, I realized that the user research insights held true: simple is better. For instance, if all the interactions can be completed on one screen easily, there would be no need to create a pop-up modal to enter in a different tempo. Showing only the necessary details about music sheets is useful in the user not feeling overwhelmed as well. In the future, creating a written user flow could help in guiding a more simple structure for the wireframes.
+
+For the most part, my lo-fi wireframes were straightforward during the usability test. However, there were points of confusion. Dropdown arrows did not always provide the most telling information about what interaction will happen next, and components like filter boxes should be kept consistent throughout the website. I also found that what might seem intuitive to me may be affected by the fact that I am overseeing the entire design and structure. The user noted that they were confused between “Courses” and “Browse Music,” so an iteration could be made to distinguish the two. Possibly adding clear hero text, changing the words, or adding color would be helpful in directing users to the appropriate and/or more primary task. 
+
+Moving forward, I will also design a short onboarding process and a login page wireframes to align with the profile screens.
 
 
