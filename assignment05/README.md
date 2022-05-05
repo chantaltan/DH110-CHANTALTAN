@@ -25,11 +25,27 @@ The tasks I will design will include the following:
 1. Find music sheets by filtering
 2. Play the music sheets
 3. Find courses to learn instruments and how to sight-read
+4. Save music sheets to be viewed in a profile for later viewing
+
 
 
 ----
 ### Wireframes & Wireflows
+<p align="center">
+<img src="./DH 110 LOFI 1.jpg" width="75%">
+  </p>
+<p align="center">
+<img src="./DH 110 LOFI 2.jpg" width="75%">
+  </p>
 
+
+### Low Fidelity Usability Testing
+<p align="center">
+<img src="./DH 110 LOFI TEST 1.jpg">
+  </p>
+<p align="center">
+<img src="./DH 110 LOFI TEST 2.jpg">
+  </p>
 
 
 ----
