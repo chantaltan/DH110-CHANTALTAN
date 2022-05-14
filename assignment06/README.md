@@ -76,11 +76,13 @@ I then conducted an impression test to see which look-and-feel of my GUI compone
 
 ### Color Contrast Check
 I used the Stark Contrast Check to see if my designs passed the recommended 4.5:1 accessibility check.
-**Buttons**
+#### Buttons
 <img src="./Stark button check.png" width="50%">
-**Navigation Bar**
-<img src="./Stark contrast nav bar.png" width="50%">
-**Filter Menu**
+
+#### Navigation Bar
+<img src="./Star contrast nav bar.png" width="50%">
+
+#### Filter Menu
 <img src="./Stark contrast filters.png" width="50%">
 
 
