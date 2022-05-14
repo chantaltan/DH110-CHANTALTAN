@@ -11,9 +11,32 @@ The Figma document for the digitized wireflow can be found [here](https://www.fi
 
 ## Screen Designs
 The link to the initial screen designs and design system tested can be found [here].
+### Chosen Screen
+I chose the Browse Music page to test variations in GUI.
+
+<img src="./Music Sheets - Screen Layout.png">
 
 ### Typographic Variations
+**Using both Lexend and Inter fonts**
+<p align="center">
+<img src="./Music Sheets - Lexend + Inter.png" width="80%">
+ </p>
+ 
+**Using only Inter font**
+<p align="center">
+<img src="./Music Sheets - Inter.png" width="80%">
+</p> 
 
+**Using smaller font sizes for the filters**
+<p align="center">
+<img src="./Music Sheets - Smaller Filter Font Size.png" width="80%">
+ </p>
+
+<p align="center">
+<img src="./DH 110 LOFI TEST 2.jpg">
+<img src="./DH 110 LOFI TEST 2.jpg" width="75%">
+  </p>
+ 
 ### Shape Variations
 
 ### Color Variations
