@@ -85,7 +85,11 @@ In the 5-second impression test, the participant mainly made comments about the 
 > The user preferred the blue colors and thought the yellow version was "weird." He did not have a preference between light and dark mode but still noted that the dark mode "looks unordinary."
 
 ## Final Design System
+Here is how the final design system looked in Figma:
+
 <img src="./Design System Fonts.png" width="25%"> <img src="./Design System Colors.png" width="25%"> <img src="./Design System Grid Style.png" width="25%">
+
+The documentation for font, color, and component specifications are outlined below.
 
 <img src="./Design System - Typography + Colors.png">
 <img src="./Design System - Components.png">
