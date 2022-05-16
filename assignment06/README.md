@@ -73,7 +73,10 @@ I then conducted an impression test to see which look-and-feel of my GUI compone
 
 
 ## Final Design System
-<img src="./Design System Fonts.png" width="25%"> <img src="./Design System Colors.png" width="25%">
+<img src="./Design System Fonts.png" width="25%"> <img src="./Design System Colors.png" width="25%"> <img src="./Design System Grid Style.png" width="25%">
+
+<img src="./Design System - Typography + Colors.png">
+<img src="./Design System - Components.png">
 
 
 ### Color Contrast Check
