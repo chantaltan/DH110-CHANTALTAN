@@ -70,7 +70,19 @@ I then conducted an impression test to see which look-and-feel of my GUI compone
 
 
 ### Summary of Findings
+In the 5-second impression test, the participant mainly made comments about the color and sizing of the components. 
 
+**Overall Impression**
+> Upon first glance, he could tell that the website was related to music and immediately recognized the blue color in the navigation bar. 
+
+**Typography**
+> The user preferred the screen that had two fonts (Lexend and Inter) rather than just one font (Inter). He also preferred the screen with a smaller font for the filters.
+
+**Shape**
+> The user did not notice a large difference between the straight versus rounded corners, but did prefer having a larger card with a drop shadow for each music sheet for easier viewing.
+
+**Color**
+> The user preferred the blue colors and thought the yellow version was "weird." He did not have a preference between light and dark mode but still noted that the dark mode "looks unordinary."
 
 ## Final Design System
 <img src="./Design System Fonts.png" width="25%"> <img src="./Design System Colors.png" width="25%"> <img src="./Design System Grid Style.png" width="25%">
