@@ -66,7 +66,9 @@ I chose the Browse Music page to test variations in GUI.
 
 
 ## Impression Test
-I then conducted an impression test to see which look-and-feel of my GUI components best fit the website. [Here] is the recording of the impression test.
+I then conducted an impression test to see which look-and-feel of my GUI components best fit the website. The recording of the impression test can be found [here](https://drive.google.com/file/d/12fkI9iLRKtb1rkD_6uLretcp8OYfdWLb/view?usp=sharing).
+
+
 ### Summary of Findings
 
 
