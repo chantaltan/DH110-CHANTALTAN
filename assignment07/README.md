@@ -1,5 +1,5 @@
 # **Making Music Learning Accessible**
-## Assignment 01 - Heuristic Analysis
+## Assignment 07 - High Fidelity Prototypes
 Chantal Tan | DH 110
 
 ### About the Project
