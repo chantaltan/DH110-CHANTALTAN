@@ -16,7 +16,7 @@ The purpose of this interactive prototype is to test how easy it is to navigate 
 ### Tasks
 This prototype supports 3 tasks:
 1. Browse music sheets by filtering to find an appropriate score to play
-2. Find a course to purchase
+2. Find a music course to purchase
 3. See saved sheets, purchased courses, and upload music sheets
 
 ## Final Wireflow
