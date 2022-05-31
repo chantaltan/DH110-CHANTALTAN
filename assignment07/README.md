@@ -34,7 +34,7 @@ Displayed below are the final wireflows for each task. You can also find the ful
 ## Prototype 1
 Access the first prototype [here](https://www.figma.com/proto/C4mhVS68SXBz0grFeql6tK/DH-110-Project?node-id=122%3A2808&scaling=scale-down-width&page-id=199%3A8576&starting-point-node-id=131%3A5205&show-proto-sidebar=1).
 
-This first version of the high-fidelity prototype closely resembed the low-fidelity wireframes I made on Figma. It mainly had the design system implemented, but there weren't as many cosmetic changes, and I tested this in two cognitive walkthrough sessions.
+This first version of the high-fidelity prototype closely resembled the low-fidelity wireframes I made on Figma. It mainly had the design system implemented, but there weren't as many cosmetic changes, and I tested this in two cognitive walkthrough sessions.
 
 ## In-class Cognitive Walkthrough
 In the in-class cognitive walkthrough sessions, users were able to walk through the first two task flows. There was a heavier emphasis on the finding and playing music sheets task (Task 1). Both participants could clearly enter and exit the tasks, and most of the feedback I received indicated my prototype was **intuitive**, **clear**, and **easy-to-use**. 
