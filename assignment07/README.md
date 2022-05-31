@@ -41,7 +41,7 @@ In the in-class cognitive walkthrough sessions, users were able to walk through 
 
 One user noted that they liked that progress could be saved through the bookmark function, but it was unclear whether the searching progress was saved. He suggested a "Reset All" or "Clear All" button for the filters, and he also wanted to go back to the browsing page filled with their selected filters once they had finished playing a song.
 
-It was also clear that the courses were a paid feature of the site, and the main purpose of the sight was to find and learn from music sheets.
+It was also clear that the courses were a paid feature of the site, and the main purpose of the site was to find and learn from music sheets.
 
 ## Prototype 2
 Access the prototype with the 2nd iteration [here](https://www.figma.com/proto/C4mhVS68SXBz0grFeql6tK/DH-110-Project?node-id=163%3A3583&scaling=scale-down-width&page-id=199%3A8576&starting-point-node-id=131%3A5205&show-proto-sidebar=1).
