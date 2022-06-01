@@ -34,7 +34,7 @@ To tackle this challenge, I must consider:
 
 
 ### Research Methods
-I will conduct a contextual inquiry session, which will include an interview and over participatory observation of the user. For the interview, I asked background questions about the user’s music learning background and in what contexts he learns to play his instrument and find music sheets. For the observation, I observed how the user would find music sheets online. Since he did not have his instrument with him, I was not able to observe how he would practice alongside the music sheets.
+I will conduct a contextual inquiry session, which will include an interview and overt participatory observation of the user. For the interview, I asked background questions about the user’s music learning background and in what contexts he learns to play his instrument and find music sheets. For the observation, I observed how the user would find music sheets online. Since he did not have his instrument with him, I was not able to observe how he would practice alongside the music sheets.
 
 The session was conducted at the user’s own home over Zoom, where they might practice their instrument or use their device to find music online. The user did not feel comfortable sharing his video, so only his audio file will be shared. 
 
