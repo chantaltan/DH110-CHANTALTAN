@@ -61,6 +61,9 @@ Upon implementing the design system across the website and testing it for access
 
 Find the final high-fidelity prototype [here](https://www.figma.com/proto/C4mhVS68SXBz0grFeql6tK/DH-110-Project?node-id=163%3A3583&scaling=scale-down-width&page-id=199%3A8576&starting-point-node-id=197%3A5368&show-proto-sidebar=1)!
 
+## Pitch Video
+Watch the pitch video [here](https://drive.google.com/file/d/1VleGVnlc7__YMObdEZDOXd4R5IMCIdNZ/view?usp=sharing).
+
 ## Conclusion
 Through this project, I was able to redesign the Musescore app to make it more navigable and easy-to-use for middle-aged men while maintaining their core tasks of finding music sheets and learning to play the sheets.
 
