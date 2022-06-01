@@ -58,8 +58,8 @@ I converted the sketches into a low-fidelity prototype on Figma and further stru
 ## High-Fidelity Prototype
 Upon implementing the design system across the website and testing it for accessibility (color contrast check), I had my initial high-fidelity prototype. I conducted two cognitive walkthroughs to determine if users could easily go through each task and if anything was missing. Iterations were then made to create the high-fidelity prototype you see below. Find the full iteration process and insights [here](https://github.com/chantaltan/DH110-CHANTALTAN/blob/main/assignment07/README.md). 
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FC4mhVS68SXBz0grFeql6tK%2FDH-110-Project%3Fnode-id%3D163%253A3583%26scaling%3Dscale-down-width%26page-id%3D199%253A8576%26starting-point-node-id%3D197%253A5368%26show-proto-sidebar%3D1" allowfullscreen>
-  </iframe>
+<iframe style="border: none;" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FC4mhVS68SXBz0grFeql6tK%2FDH-110-Project%3Fnode-id%3D163%253A3583%26scaling%3Dscale-down-width%26page-id%3D199%253A8576%26starting-point-node-id%3D197%253A5368%26show-proto-sidebar%3D1" allowfullscreen="">
+</iframe>
 
 ## Conclusion
 Through this project, I was able to redesign the Musescore app to make it more navigable and easy-to-use for middle-aged men while maintaining their core tasks of finding music sheets and learning to play the sheets.
